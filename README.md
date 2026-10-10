@@ -1,1 +1,1 @@
-Here you can find slides I used for internship defense in the second year of my bachelor's degree and the final year. 
+Here you can find slides I used for internship defense in the second year of my bachelor's degree and the final year. You can find as well the internship report for the last year internship (Climate Stress Testing).
